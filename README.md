@@ -28,6 +28,10 @@ Despues de Todo eso Descargas el paquete de iconos desde el siguiente link:
 
 ![In1](https://github.com/Arturo254/Mac-OS-Theme/assets/87346871/5054d6c3-e594-4a6a-afd5-1a60288da472)
 
+Siguiente a eso lo descomprimes y creas una carpeta en el directorio $HOME llamada :  .icons 
+
+Y mueves la carpeta descomprida (solo la carpeta que contiene los iconos y archivos) 
+
 # ⚠️
 Si no instalas alguna de las extensiones Siguientes , no hay problema , solo es para darle un toque mas estetico
 
